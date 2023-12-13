@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Unit\\Lesson4\\TernaryOperator\\TernaryOperator.csproj",
+      "projectUniqueName": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson4\\TernaryOperator\\TernaryOperator.csproj",
       "projectName": "TernaryOperator",
-      "projectPath": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Unit\\Lesson4\\TernaryOperator\\TernaryOperator.csproj",
+      "projectPath": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson4\\TernaryOperator\\TernaryOperator.csproj",
       "packagesPath": "C:\\Users\\murat.vuranok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Unit\\Lesson4\\TernaryOperator\\obj\\",
+      "outputPath": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson4\\TernaryOperator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

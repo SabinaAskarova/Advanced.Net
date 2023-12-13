@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Unit\\Lesson4\\ConditionsLesson\\ConditionsLesson.csproj",
+      "projectUniqueName": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson4\\ConditionsLesson\\ConditionsLesson.csproj",
       "projectName": "ConditionsLesson",
-      "projectPath": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Unit\\Lesson4\\ConditionsLesson\\ConditionsLesson.csproj",
+      "projectPath": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson4\\ConditionsLesson\\ConditionsLesson.csproj",
       "packagesPath": "C:\\Users\\murat.vuranok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Unit\\Lesson4\\ConditionsLesson\\obj\\",
+      "outputPath": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson4\\ConditionsLesson\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

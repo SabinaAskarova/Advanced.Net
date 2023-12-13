@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Unit\\Lesson4\\KreditVergiHesablanmasi\\KreditVergiHesablanmasi.csproj": {}
+    "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson4\\KreditVergiHesablanmasi\\KreditVergiHesablanmasi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Unit\\Lesson4\\KreditVergiHesablanmasi\\KreditVergiHesablanmasi.csproj": {
+    "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson4\\KreditVergiHesablanmasi\\KreditVergiHesablanmasi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Unit\\Lesson4\\KreditVergiHesablanmasi\\KreditVergiHesablanmasi.csproj",
+        "projectUniqueName": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson4\\KreditVergiHesablanmasi\\KreditVergiHesablanmasi.csproj",
         "projectName": "KreditVergiHesablanmasi",
-        "projectPath": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Unit\\Lesson4\\KreditVergiHesablanmasi\\KreditVergiHesablanmasi.csproj",
+        "projectPath": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson4\\KreditVergiHesablanmasi\\KreditVergiHesablanmasi.csproj",
         "packagesPath": "C:\\Users\\murat.vuranok\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Unit\\Lesson4\\KreditVergiHesablanmasi\\obj\\",
+        "outputPath": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson4\\KreditVergiHesablanmasi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

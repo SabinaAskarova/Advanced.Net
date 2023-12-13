@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson5\ATMSimulyasiya\bin\Debug\net8.0\ATMSimulyasiya.exe
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson5\ATMSimulyasiya\bin\Debug\net8.0\ATMSimulyasiya.deps.json
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson5\ATMSimulyasiya\bin\Debug\net8.0\ATMSimulyasiya.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson5\ATMSimulyasiya\bin\Debug\net8.0\ATMSimulyasiya.dll
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson5\ATMSimulyasiya\bin\Debug\net8.0\ATMSimulyasiya.pdb
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson5\ATMSimulyasiya\obj\Debug\net8.0\ATMSimulyasiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson5\ATMSimulyasiya\obj\Debug\net8.0\ATMSimulyasiya.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson5\ATMSimulyasiya\obj\Debug\net8.0\ATMSimulyasiya.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson5\ATMSimulyasiya\obj\Debug\net8.0\ATMSimulyasiya.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson5\ATMSimulyasiya\obj\Debug\net8.0\ATMSimulyasiya.sourcelink.json
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson5\ATMSimulyasiya\obj\Debug\net8.0\ATMSimulyasiya.dll
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson5\ATMSimulyasiya\obj\Debug\net8.0\refint\ATMSimulyasiya.dll
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson5\ATMSimulyasiya\obj\Debug\net8.0\ATMSimulyasiya.pdb
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson5\ATMSimulyasiya\obj\Debug\net8.0\ATMSimulyasiya.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson5\ATMSimulyasiya\obj\Debug\net8.0\ref\ATMSimulyasiya.dll
