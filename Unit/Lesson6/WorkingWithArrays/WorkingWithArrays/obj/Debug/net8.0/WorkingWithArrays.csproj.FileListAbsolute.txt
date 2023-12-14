@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson6\WorkingWithArrays\WorkingWithArrays\bin\Debug\net8.0\WorkingWithArrays.exe
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson6\WorkingWithArrays\WorkingWithArrays\bin\Debug\net8.0\WorkingWithArrays.deps.json
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson6\WorkingWithArrays\WorkingWithArrays\bin\Debug\net8.0\WorkingWithArrays.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson6\WorkingWithArrays\WorkingWithArrays\bin\Debug\net8.0\WorkingWithArrays.dll
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson6\WorkingWithArrays\WorkingWithArrays\bin\Debug\net8.0\WorkingWithArrays.pdb
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson6\WorkingWithArrays\WorkingWithArrays\obj\Debug\net8.0\WorkingWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson6\WorkingWithArrays\WorkingWithArrays\obj\Debug\net8.0\WorkingWithArrays.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson6\WorkingWithArrays\WorkingWithArrays\obj\Debug\net8.0\WorkingWithArrays.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson6\WorkingWithArrays\WorkingWithArrays\obj\Debug\net8.0\WorkingWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson6\WorkingWithArrays\WorkingWithArrays\obj\Debug\net8.0\WorkingWithArrays.sourcelink.json
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson6\WorkingWithArrays\WorkingWithArrays\obj\Debug\net8.0\WorkingWithArrays.dll
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson6\WorkingWithArrays\WorkingWithArrays\obj\Debug\net8.0\refint\WorkingWithArrays.dll
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson6\WorkingWithArrays\WorkingWithArrays\obj\Debug\net8.0\WorkingWithArrays.pdb
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson6\WorkingWithArrays\WorkingWithArrays\obj\Debug\net8.0\WorkingWithArrays.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson6\WorkingWithArrays\WorkingWithArrays\obj\Debug\net8.0\ref\WorkingWithArrays.dll
