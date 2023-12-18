@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>My First package :)</Title>
+    <PackageIcon>images.jpg</PackageIcon>
+    <Authors>$(Sabina Askarova)</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\..\Downloads\images.jpg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

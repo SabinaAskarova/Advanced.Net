@@ -1,0 +1,12 @@
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson8\Lesson8\MyNuget\bin\Debug\net8.0\MyNuget.deps.json
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson8\Lesson8\MyNuget\bin\Debug\net8.0\MyNuget.dll
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson8\Lesson8\MyNuget\bin\Debug\net8.0\MyNuget.pdb
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson8\Lesson8\MyNuget\obj\Debug\net8.0\MyNuget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson8\Lesson8\MyNuget\obj\Debug\net8.0\MyNuget.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson8\Lesson8\MyNuget\obj\Debug\net8.0\MyNuget.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson8\Lesson8\MyNuget\obj\Debug\net8.0\MyNuget.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson8\Lesson8\MyNuget\obj\Debug\net8.0\MyNuget.sourcelink.json
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson8\Lesson8\MyNuget\obj\Debug\net8.0\MyNuget.dll
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson8\Lesson8\MyNuget\obj\Debug\net8.0\refint\MyNuget.dll
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson8\Lesson8\MyNuget\obj\Debug\net8.0\MyNuget.pdb
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson8\Lesson8\MyNuget\obj\Debug\net8.0\ref\MyNuget.dll

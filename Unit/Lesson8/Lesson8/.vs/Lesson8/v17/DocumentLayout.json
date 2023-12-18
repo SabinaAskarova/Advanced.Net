@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson8\\Lesson8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B17D6382-CDE1-40AA-A328-9122FBE3B3A2}|MyNuget\\MyNuget.csproj|c:\\users\\murat.vuranok\\desktop\\sabina-codeacademy\\advanced.net\\unit\\lesson8\\lesson8\\mynuget\\mynuget.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B17D6382-CDE1-40AA-A328-9122FBE3B3A2}|MyNuget\\MyNuget.csproj|solutionrelative:mynuget\\mynuget.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17D6382-CDE1-40AA-A328-9122FBE3B3A2}|MyNuget\\MyNuget.csproj|c:\\users\\murat.vuranok\\desktop\\sabina-codeacademy\\advanced.net\\unit\\lesson8\\lesson8\\mynuget\\mynuget.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B17D6382-CDE1-40AA-A328-9122FBE3B3A2}|MyNuget\\MyNuget.csproj|solutionrelative:mynuget\\mynuget.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E49549-7337-498B-9BFC-69514648DC9B}|Lesson8\\Lesson8.csproj|c:\\users\\murat.vuranok\\desktop\\sabina-codeacademy\\advanced.net\\unit\\lesson8\\lesson8\\lesson8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E49549-7337-498B-9BFC-69514648DC9B}|Lesson8\\Lesson8.csproj|solutionrelative:lesson8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17D6382-CDE1-40AA-A328-9122FBE3B3A2}|MyNuget\\MyNuget.csproj|c:\\users\\murat.vuranok\\desktop\\sabina-codeacademy\\advanced.net\\unit\\lesson8\\lesson8\\mynuget\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17D6382-CDE1-40AA-A328-9122FBE3B3A2}|MyNuget\\MyNuget.csproj|solutionrelative:mynuget\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E49549-7337-498B-9BFC-69514648DC9B}|Lesson8\\Lesson8.csproj|c:\\users\\murat.vuranok\\desktop\\sabina-codeacademy\\advanced.net\\unit\\lesson8\\lesson8\\lesson8\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E49549-7337-498B-9BFC-69514648DC9B}|Lesson8\\Lesson8.csproj|solutionrelative:lesson8\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyNuget",
+              "DocumentMoniker": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson8\\Lesson8\\MyNuget\\MyNuget.csproj",
+              "RelativeDocumentMoniker": "MyNuget\\MyNuget.csproj",
+              "ToolTip": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson8\\Lesson8\\MyNuget\\MyNuget.csproj",
+              "RelativeToolTip": "MyNuget\\MyNuget.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-18T09:37:57.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyNuget",
+              "DocumentMoniker": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson8\\Lesson8\\MyNuget\\MyNuget.csproj",
+              "RelativeDocumentMoniker": "MyNuget\\MyNuget.csproj",
+              "ToolTip": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson8\\Lesson8\\MyNuget\\MyNuget.csproj",
+              "RelativeToolTip": "MyNuget\\MyNuget.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-18T09:33:08.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailHelper.cs",
+              "DocumentMoniker": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson8\\Lesson8\\MyNuget\\MailHelper.cs",
+              "RelativeDocumentMoniker": "MyNuget\\MailHelper.cs",
+              "ToolTip": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson8\\Lesson8\\MyNuget\\MailHelper.cs",
+              "RelativeToolTip": "MyNuget\\MailHelper.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T09:16:36.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson8\\Lesson8\\Lesson8\\Class1.cs",
+              "RelativeDocumentMoniker": "Lesson8\\Class1.cs",
+              "ToolTip": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson8\\Lesson8\\Lesson8\\Class1.cs",
+              "RelativeToolTip": "Lesson8\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T05:35:25.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson8\\Lesson8\\Lesson8\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson8\\Program.cs",
+              "ToolTip": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson8\\Lesson8\\Lesson8\\Program.cs",
+              "RelativeToolTip": "Lesson8\\Program.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAIwGEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T05:08:47.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
