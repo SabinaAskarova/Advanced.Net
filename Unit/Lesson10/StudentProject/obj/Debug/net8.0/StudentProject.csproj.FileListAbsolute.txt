@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\StudentProject\bin\Debug\net8.0\StudentProject.exe
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\StudentProject\bin\Debug\net8.0\StudentProject.deps.json
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\StudentProject\bin\Debug\net8.0\StudentProject.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\StudentProject\bin\Debug\net8.0\StudentProject.dll
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\StudentProject\bin\Debug\net8.0\StudentProject.pdb
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\StudentProject\obj\Debug\net8.0\StudentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\StudentProject\obj\Debug\net8.0\StudentProject.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\StudentProject\obj\Debug\net8.0\StudentProject.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\StudentProject\obj\Debug\net8.0\StudentProject.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\StudentProject\obj\Debug\net8.0\StudentProject.sourcelink.json
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\StudentProject\obj\Debug\net8.0\StudentProject.dll
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\StudentProject\obj\Debug\net8.0\refint\StudentProject.dll
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\StudentProject\obj\Debug\net8.0\StudentProject.pdb
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\StudentProject\obj\Debug\net8.0\StudentProject.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\StudentProject\obj\Debug\net8.0\ref\StudentProject.dll

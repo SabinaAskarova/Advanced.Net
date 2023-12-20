@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson9/1.0.0": {
+        "dependencies": {
+          "MyFirstNugetPack11": "1.1.1"
+        },
+        "runtime": {
+          "Lesson9.dll": {}
+        }
+      },
+      "MyFirstNugetPack11/1.1.1": {
+        "runtime": {
+          "lib/net8.0/MyFirstNugetPack11.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyFirstNugetPack11/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r7h0mRYYEXO3IRBVvt6AfNhX8AwWkxxRPH+Y91c5mp8mGSnRe8AnnJj6VN8v0MtFJmOYVQVpIZrnvOlF89fK0g==",
+      "path": "myfirstnugetpack11/1.1.1",
+      "hashPath": "myfirstnugetpack11.1.1.1.nupkg.sha512"
+    }
+  }
+}

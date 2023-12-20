@@ -35,12 +35,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyNuget",
+              "Title": "MyNuget.csproj",
               "DocumentMoniker": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson8\\Lesson8\\MyNuget\\MyNuget.csproj",
               "RelativeDocumentMoniker": "MyNuget\\MyNuget.csproj",
               "ToolTip": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson8\\Lesson8\\MyNuget\\MyNuget.csproj",
               "RelativeToolTip": "MyNuget\\MyNuget.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2023-12-18T09:37:57.342Z",
               "EditorCaption": ""
@@ -54,8 +54,7 @@
               "ToolTip": "C:\\Users\\murat.vuranok\\Desktop\\Sabina-CodeAcademy\\Advanced.Net\\Unit\\Lesson8\\Lesson8\\MyNuget\\MyNuget.csproj",
               "RelativeToolTip": "MyNuget\\MyNuget.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2023-12-18T09:33:08.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-18T09:33:08.584Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "MyNuget\\MailHelper.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAgwCUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-18T09:16:36.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-18T09:16:36.487Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "Lesson8\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-18T05:35:25.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-18T05:35:25.405Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "Lesson8\\Program.cs",
               "ViewState": "AQIAAFQAAAAAAAAAAAAIwGEAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-18T05:08:47.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-18T05:08:47.614Z"
             }
           ]
         }

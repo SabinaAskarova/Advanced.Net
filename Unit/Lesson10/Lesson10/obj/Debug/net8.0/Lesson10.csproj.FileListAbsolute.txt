@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\Lesson10\obj\Debug\net8.0\Lesson10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\Lesson10\obj\Debug\net8.0\Lesson10.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\Lesson10\obj\Debug\net8.0\Lesson10.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\Lesson10\obj\Debug\net8.0\Lesson10.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\Lesson10\obj\Debug\net8.0\Lesson10.sourcelink.json
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\Lesson10\bin\Debug\net8.0\Lesson10.exe
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\Lesson10\bin\Debug\net8.0\Lesson10.deps.json
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\Lesson10\bin\Debug\net8.0\Lesson10.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\Lesson10\bin\Debug\net8.0\Lesson10.dll
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\Lesson10\bin\Debug\net8.0\Lesson10.pdb
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\Lesson10\obj\Debug\net8.0\Lesson10.dll
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\Lesson10\obj\Debug\net8.0\refint\Lesson10.dll
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\Lesson10\obj\Debug\net8.0\Lesson10.pdb
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\Lesson10\obj\Debug\net8.0\Lesson10.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Sabina-CodeAcademy\Advanced.Net\Unit\Lesson10\Lesson10\obj\Debug\net8.0\ref\Lesson10.dll

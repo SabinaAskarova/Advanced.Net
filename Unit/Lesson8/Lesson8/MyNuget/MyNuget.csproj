@@ -14,7 +14,7 @@
     <None Include="..\..\..\..\..\..\..\Downloads\images.jpg">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
+		<Version>1.0.0</Version>
     </None>
   </ItemGroup>
-
 </Project>
